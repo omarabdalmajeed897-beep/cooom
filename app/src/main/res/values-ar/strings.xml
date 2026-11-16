@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">compressor</string>
+    <string name="theme_toggle">تغيير المظهر</string>
+    <string name="select_pdfs_title">اختر ملفات PDF من وحدة التخزين</string>
+    <string name="local_privacy_note">تتم المعالجة محلياً على جهازك بالكامل دون خوادم خارجية.</string>
+    <string name="select_pdfs_btn">اختيار ملفات PDF</string>
+    <string name="compression_level">مستوى الضغط</string>
+    <string name="level_high">عالٍ</string>
+    <string name="level_medium">متوسط</string>
+    <string name="level_low">منخفض</string>
+    <string name="estimate_disclaimer">الأحجام المعروضة قبل الضغط تقديرية وليست نتائج مضمونة.</string>
+    <string name="compress_all_btn">ضغط الملفات</string>
+    <string name="action_save">حفظ في مجلد…</string>
+    <string name="action_share">مشاركة</string>
+    <string name="action_open">فتح</string>
+</resources>

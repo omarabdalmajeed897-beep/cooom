@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">compressor</string>
+    <string name="theme_toggle">Toggle theme</string>
+    <string name="select_pdfs_title">Select PDF files from device storage</string>
+    <string name="local_privacy_note">Processed locally on your device without external servers.</string>
+    <string name="select_pdfs_btn">Select PDFs</string>
+    <string name="compression_level">Compression Level</string>
+    <string name="level_high">High</string>
+    <string name="level_medium">Medium</string>
+    <string name="level_low">Low</string>
+    <string name="estimate_disclaimer">Sizes shown before compression are estimates, not guaranteed results.</string>
+    <string name="compress_all_btn">Compress PDFs</string>
+    <string name="action_save">Save As…</string>
+    <string name="action_share">Share</string>
+    <string name="action_open">Open</string>
+</resources>
